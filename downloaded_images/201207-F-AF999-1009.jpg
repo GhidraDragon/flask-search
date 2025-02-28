@@ -1,0 +1,7 @@
+    <!doctype html>
+    <html>
+    <head>
+        <title>Site Up</title>
+        <style type="text/css">body { text-align: center; padding: 150px; }h1 { font-size: 40px; }body { font: 16px Helvetica, sans-serif; color: #333; }#error { display: block; text-align: left; width: 650px; margin: 0 auto; }    </style>
+    </head>
+    </html>
